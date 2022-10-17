@@ -9,4 +9,7 @@ All steps, resources, and modelling techniques was learned from a 30-hours cours
 
 **Screenshots :**<br>
 - Hood<br>
-  <img src="https://github.com/zafiramdhani/blender3d-chevroletcorvette/blob/main/hood/screenshot-hood.png?raw=true" width="600">
+  <img src="https://github.com/zafiramdhani/blender3d-chevroletcorvette/blob/main/hood/screenshot-hood.png?raw=true" width="500">
+
+- Front Fender<br>
+  <img src="https://github.com/zafiramdhani/blender3d-chevroletcorvette/blob/main/front_fender/screenshot-front-fender.png?raw=true" width="500">
