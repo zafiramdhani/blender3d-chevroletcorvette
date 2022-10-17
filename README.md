@@ -1,5 +1,5 @@
 # blender3d-chevroletcorvette
-### A repository for 3D Chevrolet Corvette Stingray car modelling in blender
+### A repository for 3D Chevrolet Corvette C7 car modelling in blender
 
 <img src="https://download.blender.org/branding/blender_logo_socket.png" width="300">
 
