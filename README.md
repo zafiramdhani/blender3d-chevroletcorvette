@@ -15,3 +15,6 @@ All steps, resources, and modelling techniques was learned from a 30-hours cours
 
 - Front Fender<br>
   <img src="https://github.com/zafiramdhani/blender3d-chevroletcorvette/blob/main/front_fender/screenshot-front-fender.png?raw=true" width="500">
+
+- Front Bumper<br>
+  <img src="https://github.com/zafiramdhani/blender3d-chevroletcorvette/blob/main/front_bumper/screenshot-front-bumper.png?raw=true" width="500">
